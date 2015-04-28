@@ -4,20 +4,20 @@
   <parent>
     <groupId>org.powertac</groupId>
     <artifactId>server-master</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.2</version>
     <relativePath />
   </parent>
   
   <artifactId>customer-models</artifactId>
   <name>PowerTAC customer models</name>
-  <version>1.2.0</version>
+  <version>1.2.2</version>
   <description />
   
   <dependencies>
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>server-interface</artifactId>
-      <version>1.2.0</version>
+      <version>1.2.2</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
