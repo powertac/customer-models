@@ -5,6 +5,7 @@
 
   <artifactId>customer-models</artifactId>
   <packaging>jar</packaging>
+  <version>1.4.0-SNAPSHOT</version>
 
   <name>Power TAC customer models</name>
   <description>Set of bottom-up customer implementations</description>
